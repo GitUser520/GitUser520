@@ -4,7 +4,7 @@ I'm Evan, a third-year computer science student at the University of British Col
 Recently Updates:
 
 ### January 2022
-Joined in on the fun in a world-wide virtual hackathon NWHacks 2022. 
+Participated in a world-wide virtual hackathon NWHacks 2022. 
 
 Take a look at our submission : https://www.youtube.com/watch?v=F-47gxkxpfA.
 
