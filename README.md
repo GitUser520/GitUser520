@@ -1,7 +1,8 @@
-(Currently under construction.)
 
 ### <Hello World 👋>
 I'm Evan, a fourth-year computer science student at the University of British Columbia.
+
+
 
 **Activities:**
 
