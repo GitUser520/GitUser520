@@ -3,13 +3,6 @@
 I'm Evan, a fourth-year computer science student at the University of British Columbia.
 
 
-
-**Activities:**
-
-Participated in a world-wide virtual hackathon NWHacks 2022. 
-
-Take a look at our submission : https://www.youtube.com/watch?v=F-47gxkxpfA.
-
 <!--
 **GitUser520/GitUser520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
